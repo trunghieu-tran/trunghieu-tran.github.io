@@ -1,9 +1,18 @@
 main:
+  - title: "About"
+    url: /about/
+  - title: "Experience"
+    url: /categories/
+  - title: "Publications"
+    url: /categories/  
+  - title: "Projects"
+    url: /categories/  
+  - title: "Awards"
+    url: /categories/  
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  
