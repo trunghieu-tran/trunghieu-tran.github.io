@@ -7,8 +7,6 @@ main:
     url: /categories/  
   - title: "Projects"
     url: /categories/  
-  - title: "Awards"
-    url: /categories/  
   - title: "Posts"
     url: /posts/
   - title: "Categories"
