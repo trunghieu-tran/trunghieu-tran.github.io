@@ -84,10 +84,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saodem74"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
+      
 defaults:
   # _posts
   - scope:
