@@ -1,11 +1,15 @@
 main:
-  - title: "About"
+  - title: "Home"
+    url: /about/
+  - title: "Bio"
     url: /about/
   - title: "Experience"
     url: /experience/
-  - title: "Publications"
+  - title: "Research"
     url: /categories/  
   - title: "Projects"
+    url: /categories/  
+  - title: "CV"
     url: /categories/  
   - title: "Posts"
     url: /posts/
