@@ -35,4 +35,12 @@ Data Analyst
 CocCoc is one of the biggest Browser and Search Engine companies in Vietnam. My work involves in extracting information from 5+ billion websites to generate website-related keywords; Checking and fixing issues with data from webpages; Creating and analyzing reports of the crawl and index system; Detecting duplicate webpage contents.
 
 ## Awards
-
+- [2018] Scholarship for Ph.D. degree at The University of Texas at Dallas
+- [2015, 2016] Second Prize at Olympic Opening SFU Programming Contest
+- [2015, 2016] Second Prize at Volga Region Opening Team Student Programming Contest
+- [2015] Second Prize at ACM-ICPC Northeastern Europe Regional Programming Contest
+- [2011] Russian Government Scholarship for Bachelor Degree
+- [2010] FPT University Scholarship for Bachelor Degree
+- [2009] Odon Vallet Scholarship for Outstanding Students
+- [2009, 2010] Second Prize in Vietnamese National Olympiad in Informatics
+- [2009] First Prize in Northern Vietnamese Olympiad in Informatics
