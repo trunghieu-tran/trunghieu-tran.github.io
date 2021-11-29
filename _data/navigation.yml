@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Experience"
-    url: /categories/
+    url: /experience/
   - title: "Publications"
     url: /categories/  
   - title: "Projects"
