@@ -8,9 +8,9 @@ main:
   - title: "Research"
     url: /categories/  
   - title: "Projects"
-    url: /categories/  
+    url: /project/  
   - title: "CV"
-    url: /categories/  
+    url: /cv/  
   - title: "Blog"
     url: /blog/
 #   - title: "Categories"
