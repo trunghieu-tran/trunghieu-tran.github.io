@@ -75,6 +75,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "GooleScholar"
+      icon: "fab fa-scholar fa-xs"
+      url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
 
 footer:
   links:
