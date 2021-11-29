@@ -31,8 +31,11 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate_path: /page:num/
+paginate_path: /blog/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
 
 include:
   - _pages
@@ -108,9 +111,27 @@ defaults:
       layout: single
       author_profile: true
 
+
+
+# Analytics
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-76482472-1"
+#     anonymize_ip: false # default
+
+# Comments
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "grantmcdermott-blog"
+
+
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /blog/tag-archive/
