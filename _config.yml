@@ -62,7 +62,8 @@ plugins:
 
 author:
   name   : "Trung Hieu (Harry) Tran"
-  avatar : "/assets/images/bio-photo.jpg"
+#   avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/harry-profile-062022.jpg"
   bio    : 
     an Ph.D. Candiate in Software Engineering.
     Interested in Software Engineering and Data Discovery.
