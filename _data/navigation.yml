@@ -10,7 +10,7 @@ main:
   - title: "Projects"
     url: /projects/  
   - title: "CV"
-    url: /cv/  
+    url: https://github.com/saodem74/info/blob/master/assets/TrungHieu_Tran_Full.pdf
   - title: "Blog"
     url: /blog/
 #   - title: "Categories"
