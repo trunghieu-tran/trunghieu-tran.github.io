@@ -6,9 +6,9 @@ main:
   - title: "Experience"
     url: /experience/
   - title: "Research"
-    url: /categories/  
+    url: /research/  
   - title: "Projects"
-    url: /projects/  
+    url: /categories/  
   - title: "CV"
     url: /assets/TrungHieu_Tran_Full.pdf
   - title: "Blog"
