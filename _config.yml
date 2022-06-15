@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saodem74"
     - label: "Scholar"
-      icon: "ai-google-scholar"
+      icon: "ai-academia-square"
       url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
 
 footer:
@@ -90,7 +90,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saodem74"
     - label: "Scholar"
-      icon: "ai-google-scholar"
+      icon: "ai-academia-square"
       url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
       
 
