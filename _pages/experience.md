@@ -2,10 +2,16 @@
 permalink: /experience/
 title: "Experience"
 ---
+Research Scientist 
+- at Meta Inc (Former Facebook) - Bay Area, CA
+- Incomming in August 2022
+
 
 Research Scientist Intern
 - at Facebook Inc. 
 Facebook App Commerce Search Team - San Francisco Bay Area, CA
+Built an infrastructure to support personalization signals in commerce search stack in Facebook App
+including retrieval stage, featuring data for learning model in ranking stage.
 
 Research Scientist Intern
 - at Apple Inc. 
