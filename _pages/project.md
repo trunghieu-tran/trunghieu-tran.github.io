@@ -2,7 +2,6 @@
 permalink: /project/
 title: "Project"
 ---
-TBD
 
 ### Transfer Learning in IoT data discovery (2020 - 2022).
 Vehicle arrival time prediction has been studied widely. With the emergence of IoT devices and deep learning tech- niques, estimated time of arrival (ETA) has become a critical com- ponent in intelligent transportation systems. Though many tools exist for ETA, ETA for special vehicles, such as ambulances, fire engines, etc., is still challenging due to the limited amount of traffic data for special vehicles. Existing works use one model for all types of vehi- cles, which can lead to low accuracy. To tackle this, as the first in the field, we propose a deep transfer learning framework TLETA for the driving time prediction. TLETA constructs cellular spatial-temporal knowledge grids for extracting driving patterns, combined with the road network structure embedding to build a deep neural network for ETA. TLETA contains transferable layers to support knowledge transfer between different categories of vehicles. Importantly, our transfer models only train the last layers to map the transferred knowledge, that reduces the training time significantly. The experi- mental studies show that our model predicts travel time with high accuracy and outperforms many state-of-the-art approaches.
