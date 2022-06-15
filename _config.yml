@@ -127,7 +127,7 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "grantmcdermott-blog"
+    shortname: "harrytran-blog"
 
 
 category_archive:
