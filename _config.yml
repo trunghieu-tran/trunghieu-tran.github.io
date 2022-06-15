@@ -90,7 +90,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saodem74"
     - label: "Scholar"
-      icon: "ai-academia-square"
+#       icon: "ai-academia-square"
+      icon: "fa-brands fa-researchgate"
       url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
       
 
