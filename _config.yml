@@ -127,11 +127,11 @@ defaults:
 
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "UA-76482472-1"
-#     anonymize_ip: false # default
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-171395144-1"
+    anonymize_ip: false # default
 
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
