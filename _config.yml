@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Trung Hieu (Harry) Tran
-url: https://saodem74.github.io/info
+url: https://trunghieu-tran.github.io
 email: trantrunghieu7492@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Trung Hieu Tran's personal website.
-twitter_username: username
-github_username: saodem74
+# twitter_username: username
+github_username: trunghieu-tran
 # minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 minimal_mistakes_skin: air
 search: true
@@ -70,7 +70,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://saodem74.github.io"
+      url: "https://trunghieu-tran.github.io"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/trunghieu-tran/"
@@ -79,7 +79,7 @@ author:
       url: "mailto:trantrunghieu7492@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/saodem74"
+      url: "https://github.com/trunghieu-tran"
     - label: "Scholar"
       icon: "fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=qN7mGjsAAAAJ"  
@@ -94,7 +94,7 @@ footer:
       url: "mailto:trantrunghieu7492@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/saodem74"
+      url: "https://github.com/trunghieu-tran"
     - label: "Scholar"
 #       icon: "ai-academia-square"
 #       icon: "fa-brands fa-researchgate"
