@@ -5,7 +5,7 @@ title: "Research"
 
 ### Ph.D. Dissertation
 
-<em><strong>IoT Data Discovery and Learning</em></strong> 
+<em><strong>IoT Data Discovery and Learning</strong></em>
 * [Presentation slides](/assets/docs/PhD_Defense_Final_Presentation.pdf)
 * [Dissertation]()
 
