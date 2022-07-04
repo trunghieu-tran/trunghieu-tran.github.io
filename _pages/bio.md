@@ -3,19 +3,16 @@ permalink: /bio/
 title: "BIOGRAPHICAL SKETCH"
 ---
 
+Trung Hieu Tran was born in Hanoi, Vietnam. Having studied in a very technologically oriented class at the high school for the gifted in his hometown, he got introduced to programming relatively earlier than his peers back in the days, and so he grew to love making programs. He has always aspired to develop himself to become as great as two highly prominent IT industry figures, Bill Gates and the past Steve Jobs. With an inquiring mind, he participated in many contests, such as ACM-International Collegiate Programming Contest and Informatics Olympic Contest for Students, as evidenced by his high achievements.
 
+In 2016, he received a Bachelor of Science in Software Engineering from Volgograd State Technical University, Russia. He joined the Erik Jonsson School of Engineering and Computer Science to pursue his Ph.D. in Software Engineering in Spring 2018 and earned the Ph.D. in July 2022 under supervisor [Dr. I-Ling Yen](https://profiles.utdallas.edu/i-ling.yen) and [Dr. Farokh Bastani](https://profiles.utdallas.edu/farokh.bastani). 
 
-Trung Hieu Tran was born in Hanoi, Vietnam. Having studied in a very technologically oriented class at the high school for the gifted in his hometown, he got introduced to programming relatively more early than his peers back in the days and so he grew to love making programs. He have always aspired to develop myself to become as great as two extremely prominent figures in IT industry who are Bill Gates and the past Steve Jobs. With an inquiring mind, he participated in many contests, such as ACM-International Collegiate Programming Contest, Informatics Olympic Contest for Students, evidenced by high achievements.
+In the early career stage of establishment, he has had experience working in big tech companies such as Apple Inc. and Meta Inc. (former Facebook Inc.) in Silicon Valley. He is currently working as Research Scientist at Meta Inc. in Menlo Park, CA, to continue contributing his efforts to billions of people worldwide.
 
-In 2016, he received a Bachelor of Science in Software Engineering from Volgograd State Technical University, Russia. He joined the Erik Jonsson School of Engineering and Computer Science to pursue his PhD in Software Engineering in Spring 2018. 
+<!-- Currently, he is a Ph.D. candidate in Software Engineer at The University of Texas at Dallas (UTD) under supervisor [Dr. I-Ling Yen](http://www.utdallas.edu/~ilyen), and had cooperated with [Dr. Tien Nguyen](http://www.utdallas.edu/~tien.n.nguyen) in some projects. 
+ -->
 
-Currently, he is a Ph.D. candidate in Software Engineer at The University of Texas at Dallas (UTD) under supervisor [Dr. I-Ling Yen](http://www.utdallas.edu/~ilyen), and had cooperated with [Dr. Tien Nguyen](http://www.utdallas.edu/~tien.n.nguyen) in some projects. 
-
-
-In the early career stage of establishment, he has had experience working in big tech companies such as Apple Inc., Meta Inc. (former Facebook Inc.,) in Silicon Valley.
-
-
-His research interests: Software Engineer, Data Mining, Program Analysis, IoT Data Discovery, Machine Learning, Big Data;
+His research interests: Software Engineer, Program Analysis, IoT Data Discovery, Deep Transfer Learning, Cloud Computing, Big Data;
 
 ## Awards
 - [2018] Scholarship for Ph.D. degree at The University of Texas at Dallas
