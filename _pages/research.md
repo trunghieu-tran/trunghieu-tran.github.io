@@ -12,7 +12,7 @@ title: "Research"
 ### Selected Publications
 
 
-1. [IEEE ITSC 2022] TLETA: Deep Transfer Learning and Integrated Cellular Knowledge for Estimated Time of Arrival Prediction. 25th IEEE International Conference on Intelligent Transportation Systems 2022 (IEEE ITSC 2022) (accepted) | TBD 
+1. [IEEE ITSC 2022] TLETA: Deep Transfer Learning and Integrated Cellular Knowledge for Estimated Time of Arrival Prediction. 25th IEEE International Conference on Intelligent Transportation Systems 2022 (IEEE ITSC 2022) (accepted) | [(arxiv)](https://arxiv.org/abs/2206.08513) 
 
 10. [IEEE SmartIoT 2022]  Automated Integrated Service Composition for Dynamic IoT Systems. The 6th IEEEInternational Conference on Smart Internet of Things (IEEE SmartIoT 2022) (accepted) | TBD
 
