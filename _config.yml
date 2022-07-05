@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Trung Hieu (Harry) Tran"
+  name   : "Trung Hieu (Harry) Tran, Ph.D."
 #   avatar : "/assets/images/bio-photo.jpg"
   avatar : "/assets/images/harry-profile-062022.jpg"
   bio    : 
