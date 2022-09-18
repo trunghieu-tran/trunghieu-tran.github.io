@@ -66,8 +66,7 @@ author:
   avatar : "/assets/images/harry-profile-062022.jpg"
   bio    : 
     an Ph.D. in Software Engineering.
-    Interested in Software Engineering, Transfer Learning and Data Discovery.
-  links:
+    Interested in Deep Transfer Learning, Transfer Reinforcement Learning, IoT Data Discovery, Distributed Systems;
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://trunghieu-tran.github.io"
