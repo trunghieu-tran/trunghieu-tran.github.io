@@ -13,7 +13,8 @@ Hi, I am Trung Hieu (Harry), a Research Scientist at Meta Inc. (former Facebook 
 Please feel free to contact me at the links provided on this website!
 
 ### Research Interest:
-Software Engineer,  Program Analysis, IoT Data Discovery, Deep Transfer Learning, Cloud Computing, Big Data;
+Deep Transfer Learning, Transfer Reinforcement Learning, IoT Data Discovery, Cloud Computing; Distributed Systems;
+Program Analysis
 
 ### Ph.D. Dissertation
 
