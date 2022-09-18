@@ -4,7 +4,6 @@ title: "Experience"
 ---
 ### Meta, Inc. - Research Scientist (08.2022 - present)
 - at Meta Inc (Former Facebook) - Bay Area, CA
-- Incomming in August 2022
 
 
 ### Facebook Inc. - Research Scientist Intern (05.2021 - 08.2021)
