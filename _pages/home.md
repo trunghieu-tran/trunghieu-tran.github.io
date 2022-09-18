@@ -5,10 +5,9 @@ title: "Home"
 
 ## Welcome
 
-Hi, I am a Ph.D. in Software Engineering at The University of Texas at Dallas (UTD). Also I am an incoming Research Scientist at Meta Inc. (former Facebook Inc.)
-
-
 Welcome to my personal website.
+
+Hi, I am Trung Hieu (Harry), a Research Scientist at Meta Inc. (former Facebook Inc.). I earned my PhD degree in Software Engineering from The University of Texas at Dallas (UTD)
 
 
 Please feel free to contact me at the links provided on this website!
