@@ -67,9 +67,10 @@ author:
   bio    : 
     an Ph.D. in Software Engineering.
     Interested in Deep Transfer Learning, Transfer Reinforcement Learning, IoT Data Discovery, Distributed Systems;
+  links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://research.facebook.com/people/tran-hieu/"
+      url: "https://trunghieu-tran.github.io/"
     - label: "Meta Research"
       icon: "fa-brands fa-facebook"
       url: "https://research.facebook.com/people/tran-hieu/"
