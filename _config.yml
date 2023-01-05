@@ -71,7 +71,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://research.facebook.com/people/tran-hieu/"
     - label: "Meta Research"
-      icon: fa-brands fa-facebook"
+      icon: "fa-brands fa-facebook"
       url: "https://research.facebook.com/people/tran-hieu/"
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin-in"
